@@ -3,6 +3,7 @@ import Link from 'next/link'
 import React from 'react'
 import homeImg from '../public/assets/projects/home.jpg'
 import gameImg from '../public/assets/projects/game.jpg'
+import mapImg from '../public/assets/projects/map.jpg'
 
 const ProjectItem = ({title, backgroundImg, info, projectUrl}) => {
   return (
