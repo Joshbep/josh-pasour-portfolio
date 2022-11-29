@@ -44,7 +44,7 @@ const game = () => {
             <button className='px-8 py-2 mt-4 mr-8'>Backend</button>
           </a>
           <a
-            href='https://tmp-frontend-nf2vkn8r8-joshbep.vercel.app/'
+            href='https://tmp-frontend-kappa.vercel.app/'
             target='_blank'
             rel='noreferrer'
           >
