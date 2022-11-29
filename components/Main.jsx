@@ -12,7 +12,7 @@ const Main = () => {
         <p className='uppercase text-sm tracking-widest text-gray-600'> LET'S BUILD SOMETHING TOGETHER</p>
         <h1 className='py-4 text-gray-700'> Hi, I'm <span className='text-[#4F7942]'>Josh</span></h1>
         <h1 className='py-2 text-gray-700'> A Software Engineer</h1>
-        <p className='py-4 text-gray-600 max-w-[70%] m-auto'> I'm a developing software engineer. I am currently completing a bootcamp at General Assembly. My passion for software engineering lies within dreaming up projects and executing them to provide something game changing while continuously pursuing new knowledge so I can land my first SE career!</p>
+        <p className='py-4 text-gray-600 max-w-[70%] m-auto'> I am a developing software engineer and I completed a Bootcamp at General Assembly! My passion for software engineering lies within dreaming up projects and executing them to provide something game changing while continuously pursuing new knowledge so I can land my first SE career!</p>
         <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
         <a
             href='https://www.linkedin.com/in/joshua-pasour/'
