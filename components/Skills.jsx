@@ -9,6 +9,9 @@ import NodeImg from '../public/assets/skills/node.jpg'
 import MongoImg from '../public/assets/skills/mongo.jpg'
 import NextImg from '../public/assets/skills/nextjs.jpg'
 import TailImg from '../public/assets/skills/tailwind.jpg'
+import PythonImg from '../public/assets/skills/python.png'
+import MySQLImg from '../public/assets/skills/MySQL.png'
+import Postgresql from '../public/assets/skills/Postgresql.png'
 const Skills = () => {
   return (
     <div id="skills" className="w-full lg:h-screen p-2">
@@ -61,6 +64,54 @@ const Skills = () => {
               </div>
               <div className="flex flex-col items-center justify-center">
                 <h3>JAVASCRIPT</h3>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src={PythonImg}
+                  width='64px'
+                  height="64px"
+                  alt='/'
+                />
+              </div>
+              <div className="flex flex-col items-center justify-center">
+                <h3>PYTHON</h3>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src={MySQLImg}
+                  width='64px'
+                  height="64px"
+                  alt='/'
+                />
+              </div>
+              <div className="flex flex-col items-center justify-center">
+                <h3>MySQL</h3>
+              </div>
+            </div>
+          </div>
+
+          <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
+            <div className="grid grid-cols-2 gap-4 justify-center items-center">
+              <div className="m-auto">
+                <Image
+                  src={Postgresql}
+                  width='64px'
+                  height="64px"
+                  alt='/'
+                />
+              </div>
+              <div className="flex flex-col items-center justify-center">
+                <h3>POSTGRESQL</h3>
               </div>
             </div>
           </div>
