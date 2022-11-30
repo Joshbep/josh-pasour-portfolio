@@ -19,8 +19,9 @@ const Main = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+            <div className='flex items-center flex-col rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300'>
               <FaLinkedinIn />
+              <span className="ml-2">Linkedin</span>
             </div>
           </a>
           <a
@@ -28,13 +29,15 @@ const Main = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+            <div className='flex items-center flex-col rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300'>
               <FaGithub />
+              <span className="ml-2">Github</span>
             </div>
           </a>
           <Link href='/#contact'>
-            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+            <div className='flex items-center flex-col rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300'>
               <AiOutlineMail />
+              <span className="ml-2">Contact</span>
             </div>
           </Link>
           <a
@@ -42,8 +45,9 @@ const Main = () => {
             target='_blank'
             rel='noreferrer'
           >
-            <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+            <div className='flex items-center flex-col rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-110 ease-in duration-300'>
               <BsFillPersonLinesFill />
+              <span className="ml-2">Resume</span>
             </div>
           </a>
         </div>
