@@ -56,7 +56,7 @@ const Contact = () => {
                     </div>
                   </a>
                   <Link
-                    href='https://docs.google.com/document/d/1R6myHsz0MoTdRVtfl7ETF2n4iIR6e6Bvv7msZuUALa4/edit?usp=sharing'
+                    href='https://docs.google.com/document/d/1huCh0pHRVL_pJBIkAMjrCAqumnpi2AshkBUrlAQOEls/edit?usp=sharing'
                   >
                     <a>
                       <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
