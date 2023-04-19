@@ -55,15 +55,15 @@ const Contact = () => {
                       <FaGithub />
                     </div>
                   </a>
-                  <Link
-                    href='https://docs.google.com/document/d/1huCh0pHRVL_pJBIkAMjrCAqumnpi2AshkBUrlAQOEls/edit?usp=sharing'
+                  <a
+                    href='https://docs.google.com/document/d/1wwTaicujNUyt3zibZd2TWaMK6F5g7ntddZbuuEG1_Hs/edit?usp=sharing'
+                    target='_blank'
+                    rel='noreferrer'
                   >
-                    <a>
-                      <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
-                        <BsFillPersonLinesFill />
-                      </div>
-                    </a>
-                  </Link>
+                    <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300'>
+                      <BsFillPersonLinesFill />
+                    </div>
+                  </a>
                 </div>
               </div>
             </div>

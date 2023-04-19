@@ -12,7 +12,7 @@ const Main = () => {
         <p className='uppercase text-sm tracking-widest text-gray-600'> LET'S BUILD SOMETHING TOGETHER</p>
         <h1 className='py-4 text-gray-700'> Hi, I'm <span className='text-[#4F7942]'>Josh</span></h1>
         <h1 className='py-2 text-gray-700'> A Software Engineer</h1>
-        <p className='py-4 text-gray-600 max-w-[70%] m-auto'> I am a software engineer with 2 years of experience in web development on marketing teams. I developed a passion for coding and the ability to learn new technologies quickly while building and optimizing websites for clients and building many full-stack apps as a student. My goal is to go from web development to a software engineering role.</p>
+        <p className='py-4 text-gray-600 max-w-[70%] m-auto'> I am a software engineer with a strong interest in coding, two years of web development experience in marketing teams, and the ability to quickly learn new technologies, I am well-equipped to transition from marketing and web development to a software engineering role. In my current role, I have been able to build and optimize websites for clients, as well as create full-stack applications as a student. My ultimate goal is to continue to grow in this field and become a successful software engineer.</p>
         <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
         <a
             href='https://www.linkedin.com/in/joshua-pasour/'
@@ -41,7 +41,7 @@ const Main = () => {
             </div>
           </Link>
           <a
-            href='https://docs.google.com/document/d/1huCh0pHRVL_pJBIkAMjrCAqumnpi2AshkBUrlAQOEls/edit?usp=sharing'
+            href='https://docs.google.com/document/d/1wwTaicujNUyt3zibZd2TWaMK6F5g7ntddZbuuEG1_Hs/edit?usp=sharing'
             target='_blank'
             rel='noreferrer'
           >
